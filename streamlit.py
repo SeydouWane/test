@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from matplotlib import pyplot as plt
+import pyplot.matplotlib  as plt
 import seaborn as sns
 # Ajouter les modules nécessaires pour la création du fichier HTML
 from io import StringIO
